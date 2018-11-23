@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    style="@style/page_root">
+    <Button
+        style="@style/menu_btn"
+        android:id="@+id/btn_https_server"
+        android:text="Https Server"/>
+</LinearLayout>
